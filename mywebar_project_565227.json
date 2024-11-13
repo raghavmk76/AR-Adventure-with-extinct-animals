@@ -1,0 +1,243 @@
+{
+  "objects": [
+    {
+      "id": -328159600,
+      "object_list_id": 8,
+      "caption_tooltip": "Color 0xffffff, Intensity 1",
+      "transform_pos_x": 3,
+      "transform_pos_y": 3,
+      "transform_pos_z": 0,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "Color": "0xffffff",
+        "Intensity": "1"
+      },
+      "created_at": "2024-11-13T15:24:19.000000Z",
+      "updated_at": "2024-11-13T15:24:51.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 5,
+      "caption": "Color 0xffffff, Intensity 1",
+      "captionLong": "Color 0xffffff, Intensity 1\t(Directional Light)",
+      "behaviours": []
+    },
+    {
+      "id": -328159700,
+      "object_list_id": 12,
+      "caption_tooltip": "Color 0xffffff, Intensity 1",
+      "transform_pos_x": 0,
+      "transform_pos_y": 0,
+      "transform_pos_z": 0,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "Color": "0xffffff",
+        "Intensity": "1"
+      },
+      "created_at": "2024-11-13T15:24:19.000000Z",
+      "updated_at": "2024-11-13T15:24:19.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 9,
+      "caption": "Color 0xffffff, Intensity 1",
+      "captionLong": "Color 0xffffff, Intensity 1\t(Ambient Light)",
+      "behaviours": []
+    },
+    {
+      "id": -328159800,
+      "object_list_id": 2,
+      "caption_tooltip": "Allosaurus.glb",
+      "transform_pos_x": 0.702,
+      "transform_pos_y": 0,
+      "transform_pos_z": 0,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "url": "https://mywebar-a.akamaihd.net/examples2022/Models/Animals&Pets/Allosaurus.glb?hash=3dfc3bfe3726fe64f645f036dfda81c0"
+      },
+      "created_at": "2024-11-13T15:24:19.000000Z",
+      "updated_at": "2024-11-13T15:24:19.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 2,
+      "caption": "Allosaurus.glb",
+      "captionLong": "Allosaurus.glb\t(3D Model)",
+      "behaviours": [
+        {
+          "id": 2176503,
+          "behaviour_list_id": 7,
+          "page_object_id": -328159800,
+          "source_page_object_id": -328159800,
+          "vars": {
+            "Index": "0",
+            "Loop": "1",
+            "Stop_animation_on_last_frame": "1",
+            "Delay": "0"
+          },
+          "created_at": "2024-11-13T15:24:19.000000Z",
+          "updated_at": "2024-11-13T15:24:19.000000Z"
+        },
+        {
+          "id": -3172082128753,
+          "behaviour_list_id": 3,
+          "source_page_object_id": -328159800,
+          "page_object_id": -328159800,
+          "rules": {
+            "url": "required|url|max:2048"
+          },
+          "allow_upload": {
+            "url": {
+              "ideal": "aac",
+              "ext": [
+                "aac",
+                "amr",
+                "aiff",
+                "flac",
+                "mp3",
+                "ogg",
+                "wav",
+                "wma",
+                "m4a"
+              ]
+            }
+          },
+          "vars": {
+            "url": "https://mywebar-a.akamaihd.net/examples/Sounds/bling-ding.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "id": -328159900,
+      "object_list_id": 2,
+      "caption_tooltip": "Arizonosaurus.glb",
+      "transform_pos_x": 0,
+      "transform_pos_y": 0.016,
+      "transform_pos_z": 0,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "url": "https://mywebar-a.akamaihd.net/examples2022/Models/Animals&Pets/Arizonosaurus.glb?hash=bf0c39fc31fa0c28c65f443869191817"
+      },
+      "created_at": "2024-11-13T15:24:19.000000Z",
+      "updated_at": "2024-11-13T15:24:19.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 2,
+      "caption": "Arizonosaurus.glb",
+      "captionLong": "Arizonosaurus.glb\t(3D Model)",
+      "behaviours": [
+        {
+          "id": 2176504,
+          "behaviour_list_id": 7,
+          "page_object_id": -328159900,
+          "source_page_object_id": -328159900,
+          "vars": {
+            "Index": "0",
+            "Loop": "1",
+            "Stop_animation_on_last_frame": "1",
+            "Delay": "0"
+          },
+          "created_at": "2024-11-13T15:24:19.000000Z",
+          "updated_at": "2024-11-13T15:24:19.000000Z"
+        }
+      ]
+    },
+    {
+      "id": -328160000,
+      "object_list_id": 2,
+      "caption_tooltip": "Amargasaurus_roar.glb",
+      "transform_pos_x": 0,
+      "transform_pos_y": 0,
+      "transform_pos_z": 0.86,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "url": "https://mywebar-a.akamaihd.net/examples2022/Models/Animals&Pets/Amargasaurus_roar.glb?hash=5fb62bedb7e03a9b69affb4542b53383"
+      },
+      "created_at": "2024-11-13T15:24:19.000000Z",
+      "updated_at": "2024-11-13T15:24:19.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 2,
+      "caption": "Amargasaurus_roar.glb",
+      "captionLong": "Amargasaurus_roar.glb\t(3D Model)",
+      "behaviours": [
+        {
+          "id": 2176505,
+          "behaviour_list_id": 7,
+          "page_object_id": -328160000,
+          "source_page_object_id": -328160000,
+          "vars": {
+            "Index": "0",
+            "Loop": "1",
+            "Stop_animation_on_last_frame": "1",
+            "Delay": "0"
+          },
+          "created_at": "2024-11-13T15:24:19.000000Z",
+          "updated_at": "2024-11-13T15:24:19.000000Z"
+        }
+      ]
+    },
+    {
+      "id": -328160100,
+      "object_list_id": 8,
+      "caption_tooltip": "Color 0xffffff, Intensity 1",
+      "transform_pos_x": 3,
+      "transform_pos_y": 3,
+      "transform_pos_z": 0,
+      "transform_rot_x": 0,
+      "transform_rot_y": 0,
+      "transform_rot_z": 0,
+      "transform_rot_w": 0,
+      "transform_scale": 1,
+      "scene_template_transform": "",
+      "vars": {
+        "Color": "0xffffff",
+        "Intensity": "1"
+      },
+      "created_at": "2024-11-13T15:24:51.000000Z",
+      "updated_at": "2024-11-13T15:24:51.000000Z",
+      "transform_scale_x": 1,
+      "transform_scale_y": 1,
+      "transform_scale_z": 1,
+      "visible": true,
+      "object_list_version_id": 5,
+      "caption": "Color 0xffffff, Intensity 1",
+      "captionLong": "Color 0xffffff, Intensity 1\t(Directional Light)",
+      "behaviours": []
+    }
+  ],
+  "isMywebarProject": true
+}
